@@ -1,2 +1,2 @@
-# gojalabs-github.io
+# gojalabs.github.io
 Goja Labs Web
